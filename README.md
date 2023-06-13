@@ -31,7 +31,7 @@ Usage
 
 Click the weather link
 
-first time. Preview: https://htmlpreview.github.io/?https://github.com/Fasmj05/Weather-forcast-app/blob/master/index.html
+first time. Preview:  https://htmlpreview.github.io/?https://github.com/sanusiemmanuel/weather-forcast-app/blob/main/index.html
 
 
 Flowchart
@@ -44,7 +44,7 @@ MVP flowchart
 
 
 
-￼
+
 
 
 Demo
@@ -52,7 +52,7 @@ Demo
 
 
 
-￼
+
 
 
 
