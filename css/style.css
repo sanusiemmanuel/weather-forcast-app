@@ -1,0 +1,66 @@
+@import url(http://db.onlinewebfonts.com/c/908696274121ffefd61889c92575a72b?family=Exo);
+@font-face {font-family: "Exo";
+    src: url("http://db.onlinewebfonts.com/t/908696274121ffefd61889c92575a72b.eot");
+    src: url("http://db.onlinewebfonts.com/t/908696274121ffefd61889c92575a72b.eot?#iefix") format("embedded-opentype"),
+    url("http://db.onlinewebfonts.com/t/908696274121ffefd61889c92575a72b.woff2") format("woff2"),
+    url("http://db.onlinewebfonts.com/t/908696274121ffefd61889c92575a72b.woff") format("woff"),
+    url("http://db.onlinewebfonts.com/t/908696274121ffefd61889c92575a72b.ttf") format("truetype"),
+    url("http://db.onlinewebfonts.com/t/908696274121ffefd61889c92575a72b.svg#Exo") format("svg");
+}
+body{
+ 
+ background-image:url("https://github.com/Dkazem91/Weather-App/blob/master/weather.png?raw=true");
+  font-family:Exo,Helvetica;
+  opacity:0;
+  
+
+  margin-top:15%;
+ 
+}
+
+h1,h2{
+  font-size:200%;
+  font-weight:bold;
+}
+
+
+.block{
+  text-align:center;
+ 
+  background-color:white;
+  padding:5px 15px;
+  border-radius:10px;
+  box-shadow:5px 5px 5px black;
+  border:5px solid;
+}
+.container{
+   text-align:center;
+  height:100%;
+  width:100%;
+  font-size:20px;
+  font-weight:bold;
+}
+
+ul li{
+  display:inline-block;
+  text-transform:capitalize;
+    font-size:150%;
+
+  cursor:default;
+}
+.block{
+  opacity:0.7;
+}
+.block:hover
+{
+  opacity:0.9;
+}
+button{
+  border:0;
+  background-color: Transparent;
+  outline:none;
+
+}
+#convert{
+  cursor: pointer
+}
