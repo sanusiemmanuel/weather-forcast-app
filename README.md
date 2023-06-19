@@ -20,9 +20,14 @@ Click the weather link
 first time. Preview: https://htmlpreview.github.io/?https://github.com/sanusiemmanuel/weather-forcast-app/blob/main/index.html
 Flowchart
 
+
+
+
+
 The weather forecast app project
 MVP flowchart
 
+![Weather001](https://github.com/sanusiemmanuel/weather-forcast-app/assets/34536806/2fcf6cc5-1217-455b-906b-e35913f2e387)
 
 
 
@@ -30,6 +35,7 @@ MVP flowchart
 Demo
 
 
+![we00](https://github.com/sanusiemmanuel/weather-forcast-app/assets/34536806/000b9515-de5a-4e9b-badc-c56a5d77b3aa)
 
 
 
